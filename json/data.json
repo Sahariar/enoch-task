@@ -1,0 +1,44 @@
+[
+    {
+      "id": "639f1a6972bd4b5d28a1c517",
+      "itemType": "AUCTION",
+      "itemFeatured": "Hot Deal",
+      "img": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "itemCode": "#B8/457843",
+      "itemName": "Enoch Citizen",
+      "itemStats": 92,
+      "itemBidName": "HIGHEST BID",
+      "itemBid": 260,
+      "itemDeals": "AUCTION ENDS IN",
+      "itemCountDown": "03: 19: 24: 42s",
+      "itemStatusUpdate": false
+    },
+    {
+      "id": "639f1a69caad15f728c73b36",
+      "itemType": "AUCTION",
+      "itemFeatured": "Hot Deal",
+      "img": "https://images.unsplash.com/photo-1637858868799-7f26a0640eb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "itemCode": "#B8/457843",
+      "itemName": "Enoch Citizen",
+      "itemStats": 93,
+      "itemBidName": "HIGHEST BID",
+      "itemBid": 260,
+      "itemDeals": "AUCTION ENDS IN",
+      "itemStatusUpdate": true,
+      "itemCountDown": "03: 19: 24: 42s"
+    },
+    {
+      "id": "639f1a693c33e8d9031c4850",
+      "itemType": "SALE",
+      "itemFeatured": "Hot Deal",
+      "img": "https://images.unsplash.com/photo-1605721886519-1e7b13f2bf57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "itemCode": "#B8/457843",
+      "itemName": "Enoch Citizen",
+      "itemStats": 82,
+      "itemBidName": "300",
+      "itemBid": 260,
+      "itemDeals": "FLASH DEAL ENDS IN",
+      "itemStatusUpdate": false,
+      "itemCountDown": "03: 19: 24: 42s"
+    }
+  ]
