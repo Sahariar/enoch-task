@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home(props) {
   
   const [itemData , setItemData] = useState(props.cardData)
-  console.log(itemData);
 	return (
 		<>
 			<Head>
