@@ -85,7 +85,7 @@ const CardItem = ({ item }) => {
 						</Box>
 					</HStack>
 				
-                    <Image src={img} alt={itemName} width={500} height={400}
+                    <Image src={img} alt={itemName} width={700} height={400}
                     />
 
 					<HStack py="10px">
@@ -126,7 +126,7 @@ const CardItem = ({ item }) => {
 									borderStyle="solid"
 									borderColor="blue.800"
 									w="40%"
-									p="10px"
+									p="7px"
 									boxShadow="md"
 									pos="relative"
                                     borderRadius='5px'
