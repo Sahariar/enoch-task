@@ -27,7 +27,7 @@ export default function Home(props) {
 								columns={{
                   base: '1', // 0-48em
                   md: '2', // 48em-80em,
-                  xl: '3', // 80em+
+                  xl: '3',
                 }} spacing={10}
 							>
                 {

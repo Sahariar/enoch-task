@@ -144,7 +144,7 @@ const CardItem = ({ item }) => {
 									>
 										15% OFF
 									</Tag>
-									<Text fontSize={{ base: '14px', md: '16px', lg: '18px' }} as="s" color="red.400">
+									<Text fontSize={{ base: '14px', lg: '18px' }} as="s" color="red.400">
 										${itemBidName}
 									</Text>
 									<Spacer></Spacer>
@@ -161,7 +161,7 @@ const CardItem = ({ item }) => {
 									boxShadow="md"
                                     borderRadius='5px'
                                 >
-									<Text fontSize={{ base: '14px', md: '16px', lg: '18px' }} as="b" color="blue.300">
+									<Text fontSize={{ base: '14px', lg: '18px' }} as="b" color="blue.300">
 										{itemDeals}
 									</Text>
 									<Spacer></Spacer>
@@ -182,7 +182,7 @@ const CardItem = ({ item }) => {
 									boxShadow="md"
                                     borderRadius='5px'
 								>
-									<Text fontSize={{ base: '16px', md: '16px', lg: '18px' }} as="b" color="green.400">
+									<Text fontSize={{ base: '16px', lg: '18px' }} as="b" color="green.400">
 										{itemBidName}
 									</Text>
 									<Spacer></Spacer>
@@ -199,7 +199,7 @@ const CardItem = ({ item }) => {
 									boxShadow="md"
                                     borderRadius='5px'
 								>
-									<Text fontSize={{ base: '14px', md: '16px', lg: '18px' }} as="b" color="blue.300">
+									<Text fontSize={{ base: '14px', lg: '18px' }} as="b" color="blue.300">
 										{itemDeals}
 									</Text>
 									<Spacer></Spacer>
