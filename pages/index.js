@@ -25,7 +25,7 @@ export default function Home(props) {
 						<Container maxW="7xl" p="6">
 							<SimpleGrid
 								spacing={4}
-								templateColumns="repeat(auto-fill, minmax(320px, 1fr))"
+								templateColumns="repeat(auto-fill, minmax(340px, 1fr))"
 							>
                 {
                   itemData.map( item => <CardItem
