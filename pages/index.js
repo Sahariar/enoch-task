@@ -24,8 +24,11 @@ export default function Home(props) {
 					<Center h={{ base: "100%", md: "100%", xl: "100vh" }} color="white">
 						<Container maxW="7xl" p="6">
 							<SimpleGrid
-								spacing={4}
-								templateColumns="repeat(auto-fill, minmax(340px, 1fr))"
+								columns={{
+                  base: '1', // 0-48em
+                  md: '2', // 48em-80em,
+                  xl: '3', // 80em+
+                }} spacing={10}
 							>
                 {
                   itemData.map( item => <CardItem
